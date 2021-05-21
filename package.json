@@ -1,6 +1,6 @@
 {
-  "name": "@dkyeremeh/react-native-responsive",
-  "version": "1.0.2",
+  "name": "@dkyeremeh/rn-responsive",
+  "version": "1.0.3",
   "description": "A React Native module to manage responsive layouts more efficiently",
   "main": "lib/index.js",
   "directories": {
@@ -12,10 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkyeremeh/react-native-responsive.git"
+    "url": "git+https://github.com/dkyeremeh/rn-responsive.git"
   },
   "keywords": [
     "react",
+    "react-native-web",
     "react-native",
     "responsive",
     "responsive",
@@ -36,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dkyeremeh/react-native-responsive/issues"
+    "url": "https://github.com/dkyeremeh/rn-responsive/issues"
   },
-  "homepage": "https://github.com/dkyeremeh/react-native-responsive#readme",
+  "homepage": "https://github.com/dkyeremeh/rn-responsive#readme",
   "peerDependencies": {
     "react-native": ">=0.25.0"
   },
