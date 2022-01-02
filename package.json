@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "mocha --recursive -r @babel/register",
-    "lint": "eslint src"
+    "lint": "eslint lib"
   },
   "repository": {
     "type": "git",
@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/dkyeremeh/rn-responsive#readme",
   "peerDependencies": {
-    "react-native": ">=0.25.0"
+    "react-native": ">=0.60.0"
   },
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4"
@@ -52,8 +52,8 @@
     "@babel/preset-env": "^7.16.7",
     "@babel/register": "^7.16.7",
     "chai": "^4.3.4",
-    "eslint": "^7.26.0",
+    "eslint": "^8.6.0",
     "eslint-plugin-react": "^7.23.2",
-    "mocha": "^8.4.0"
+    "mocha": "^9.1.3"
   }
 }
