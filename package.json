@@ -1,6 +1,6 @@
 {
   "name": "@college-africa/rn-responsive",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React Native module to manage responsive layouts more efficiently",
   "main": "lib/index.js",
   "private": false,

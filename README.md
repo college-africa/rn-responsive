@@ -49,7 +49,8 @@ A set of apis, components and decorators helps you to implement and build respon
 - [x] Install react-native-responsive from npm repository: 
 
 	```
-	npm install react-native-responsive --save
+	npm install @college-africa/rn-responsive --save
+	yarn add @college-africa/rn-responsive
 	```
 
 - [x] You are now good to go !
